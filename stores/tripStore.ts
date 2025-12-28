@@ -245,3 +245,5 @@ export const useTripStore = create<TripState>((set, get) => ({
   clearError: () => set({ error: null }),
 }));
 
+
+
